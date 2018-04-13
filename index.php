@@ -8,7 +8,7 @@
         <title>Latihan CRUD</title>
     </head>
     <body>
-        <h1>Data</h1>
+        <h1>Data Tampil</h1>
         <a href="tambah.php">Tambah</a>
         <table border="1">
             <thead>
